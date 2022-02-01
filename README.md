@@ -1,2 +1,2 @@
-# louis-daily-leetcode
+# Louis Daily LeetCode
 Louis Daily LeetCode
